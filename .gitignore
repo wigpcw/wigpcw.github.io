@@ -1,3 +1,4 @@
-
-README.md
-*.md
+.DS_Store
+.sass-cache
+.bundle
+_site
